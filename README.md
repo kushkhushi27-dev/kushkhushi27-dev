@@ -4,13 +4,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=3000&pause=900&color=C65378&center=true&vCenter=true&width=650&lines=Building+ideas+into+meaningful+software;Java+%7C+DSA+%7C+Backend+Development;Learning+continuously.+Building+consistently." alt="Typing SVG" />
-
-<br/>
-
 <a href="https://github.com/kushkhushi27-dev"><img src="https://img.shields.io/badge/GitHub-702D46?style=for-the-badge&logo=github&logoColor=FFF0F4" /></a>
 <a href="https://www.linkedin.com/in/kushkhushi27/"><img src="https://img.shields.io/badge/LinkedIn-C65378?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-EBA0B5?style=for-the-badge&logo=leetcode&logoColor=702D46" /></a>
+<a href="https://leetcode.com/u/kushkhushi/"><img src="https://img.shields.io/badge/LeetCode-EBA0B5?style=for-the-badge&logo=leetcode&logoColor=702D46" /></a>
 
 <br/><br/>
 
@@ -34,7 +30,7 @@ I'm an MCA student at **NIT Kurukshetra**, aspiring to become a software develop
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,python,mysql,git,github,vscode&theme=light" />
+
 
 <br/><br/>
 
