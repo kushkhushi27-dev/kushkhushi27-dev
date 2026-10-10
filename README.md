@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=kushkhushi27-dev&style=flat-square&color=C65378&label=PROFILE+VIEWS" />
+
 
 </div>
 
