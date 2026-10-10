@@ -66,7 +66,7 @@ I use coding practice to improve my understanding of algorithms, data structures
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/kushkhushi27)
 - 💻 GitHub: [@kushkhushi27-dev](https://github.com/kushkhushi27-dev)
 
 ---
