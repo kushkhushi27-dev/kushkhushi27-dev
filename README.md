@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/kushkhushi27/"><img src="https://img.shields.io/badge/LinkedIn-C65378?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/kushkhushi/"><img src="https://img.shields.io/badge/LeetCode-EBA0B5?style=for-the-badge&logo=leetcode&logoColor=702D46" /></a>
 
-<br/><br/>
 
 
 
@@ -32,7 +31,7 @@ I'm an MCA student at **NIT Kurukshetra**, aspiring to become a software develop
 
 
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Java-EA8DA8?style=flat-square&logo=openjdk&logoColor=702D46" />
 <img src="https://img.shields.io/badge/C-F4C2D0?style=flat-square&logo=c&logoColor=702D46" />
